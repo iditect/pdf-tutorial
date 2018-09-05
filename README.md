@@ -1,7 +1,7 @@
 # pdf-tutorial
 This is C# tutorial for iDiTect PDF component.
 
-It's free for evaluation test, however for any other use, you need the <a href="http://www.iditect.com/pricing.html">license</a>. A trial key or licensed key need to be register before you using the demo, please download the fresh trial key from <a href="http://www.iditect.com/download/iDiTect.Trial.zip">here</a>.
+It's free for evaluation test, however for any other use, you need the <a href="http://www.iditect.com/pricing.html">license</a>. A trial key or licensed key need to be register before you using the demo, please download the fresh trial key from <a href="http://www.iditect.com/download/iDiTect.PDF.Trial.zip">here</a>.
 
 iDiTect provides useful PDF tools, which can be integrate in any .NET winforms and asp.net applications.
 
@@ -17,4 +17,4 @@ PDF signing: http://www.iditect.com/tutorial/sign-pdf/, digital sign PDF, allowi
 
 PDF watermarking: http://www.iditect.com/tutorial/watermark-pdf/, watermark PDF with text and/or image graphics.
 
-PDF compressing: http://www.iditect.com/tutorial/compress-pdf/, compress PDF by reducing the image and content size in page, deleting unwanted annotation and metadata.
+PDF Table: http://www.iditect.com/tutorial/pdf-table/, add table to PDF.
